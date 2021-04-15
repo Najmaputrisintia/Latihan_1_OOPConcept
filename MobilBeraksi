@@ -1,0 +1,28 @@
+package textbasedapplication;
+
+/**
+ *
+ * @author acer
+ */
+class Mobil {
+    String warna;
+    int tahunProduksi;
+}
+====================================================================
+package textbasedapplication;
+
+/**
+ *
+ * @author acer
+ */
+public class Mobilberaksi {
+  public static void main(String[] args){
+        Mobil mobilDiah = new Mobil();
+        
+        mobilDiah.warna = "Biru";
+        mobilDiah.tahunProduksi = 1945;
+        
+        System.out.println("Warna: " + mobilDiah.warna);
+        System.out.println("tahun Produksi: " + mobilDiah.tahunProduksi);
+}
+}
