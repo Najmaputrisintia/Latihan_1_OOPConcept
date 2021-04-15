@@ -1,0 +1,31 @@
+package Halo;
+
+/**
+ *
+ * @author acer
+ */
+public class halojakarta {
+    
+    public static void main(String[] args) {
+        System.out.println("Halo Jakarta");
+    }
+}
+==================================================================
+
+package Halo;
+
+/**
+ *
+ * @author acer
+ */
+public class HaloIndonesia {
+    /**
+     *
+     * @param args
+     */
+    public static void main(String[] args) {
+        System.out.println("Halo Indonesia");
+        System.out.println("Salam Sejahtera Indonesia");
+        System.out.println("Jaya indonesia");
+    }
+}
